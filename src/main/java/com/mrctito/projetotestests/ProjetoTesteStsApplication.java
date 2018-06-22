@@ -8,5 +8,7 @@ public class ProjetoTesteStsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProjetoTesteStsApplication.class, args);
+		
+		System.out.println("Teste!");
 	}
 }
